@@ -1,5 +1,5 @@
 {
-    "mongoose_url": "mongodb+srv://cluster:B100dy50@e-s.j5kucze.mongodb.net/test",
+    "mongoose_url": "mongodb+srv://",
     "api": {
         "port": 5000
     },
