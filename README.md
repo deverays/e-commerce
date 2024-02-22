@@ -1,6 +1,6 @@
 # e-commerce site Japanese themed
 
-#NPM
+# NPM
 ```js
 - cd server/client
 - npm i
