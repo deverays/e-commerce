@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Kaisen";
+  src: url("./fonts/kaisen.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gang-of-three";
+  src: url("./fonts/gang-of-three.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./fonts/poppins.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins-Small";
+  src: url("./fonts/poppins.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}

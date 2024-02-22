@@ -1,0 +1,70 @@
+{
+    "loading": "Yukleniyor",
+    "titles": {
+        "home": "Anasayfa",
+        "login": "Giriş yap",
+        "register": "Kayıt ol",
+        "account": "Hesap",
+        "favoriteProducts": "Beğendiğim Ürünler"
+    },
+    "shoppingCart": {
+        "title": "Sepetim",
+        "startShopping": "Alışverişe Başla"
+    },
+    "navigate": {
+        "login": "Giriş yap",
+        "signup": "Kayıt ol",
+        "home": "Anasayfa",
+        "products": "Ürünler",
+        "newCollection": "Yeni Koleksiyon!",
+        "t-shirt": "T-shirt",
+        "hoodie": "Hoodie",
+        "sweatpants": "Eşofman Altı",
+        "outerwear": "Dış Giyim"
+    },
+    "login": {
+        "description": "{{-title}}'da oturum açın",
+        "submit": "Oturum Aç",
+        "forgetPassword": "Şifreni mi unuttun?",
+        "register": "Hesabın yok mu? Kayıt Ol",
+        "email": "Email",
+        "password": "Şifre",
+        "errors": {
+            "account": "Hesap bulunamadı!",
+            "password": "Parola eşleşmedi!"
+        }
+    },
+    "register": {
+        "description": "{{-title}}'a kayıt olun",
+        "submit": "Kayıt Ol",
+        "forgetPassword": "Şifreni mi unuttun?",
+        "login": "Zaten bir hesabın var mı? Giriş Yap",
+        "name": "Ad",
+        "surname": "Soyad",
+        "email": "Email",
+        "password": "Şifre",
+        "telephone": "Telefon",
+        "errors": {
+            "account": "Zaten böyle bir hesap var!"
+        }
+    },
+    "accountLeftSide": {
+        "logout": "Çıkış Yap",
+        "titles": {
+            "account": "Kişisel Bilgilerim",
+            "orders": "Sipariş Bilgilerim"
+        },
+        "items": {
+            "account": "Kişisel Bilgilerim",
+            "myAddresses": "Adreslerim",
+            "orders": "Siparişlerim",
+            "favoriteProducts": "Beğendiğim Ürünler"
+        },
+        "buttons": {
+            "back": "geri dön"
+        }
+    },
+    "account": {
+        "title": "{{-name}} Hoşgeldin!"
+    }
+}

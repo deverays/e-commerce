@@ -1,0 +1,10 @@
+{
+    "mongoose_url": "mongodb+srv://cluster:B100dy50@e-s.j5kucze.mongodb.net/test",
+    "api": {
+        "port": 5000
+    },
+    "secret": {
+        "refresh_token": "refresh_token",
+        "access_token": "access_token"
+    }
+}
